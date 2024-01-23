@@ -1,6 +1,6 @@
 # Virtual Pet On-Chain NFT
-
-Virtual Pet On-Chain NFT is an innovative project that brings the concept of virtual pets to the blockchain using Non-Fungible Tokens (NFTs). Each virtual pet is represented as a unique NFT, allowing users to own, trade, and interact with their virtual companions on the blockchain.
+Virtual Pet NFT with On-Chain Metadata.
+Each virtual pet is represented as a unique NFT, allowing users to own, trade, and interact with their virtual companions on the blockchain.
 
 ## Introduction
 
