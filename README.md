@@ -1,10 +1,9 @@
 # Virtual Pet On-Chain NFT
-Virtual Pet NFT with On-Chain Metadata.
-Each virtual pet is represented as a unique NFT, allowing users to own, trade, and interact with their virtual companions on the blockchain.
 
 ## Introduction
 
-[Describe briefly what Virtual Pet On-Chain NFT is all about and its key selling points. Mention the technology stack used.]
+Virtual Pet NFT with On-Chain Metadata.
+Each virtual pet is represented as a unique NFT, allowing users to own, trade, and interact with their virtual companions on the blockchain.
 
 ## Features
 
