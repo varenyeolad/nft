@@ -19,10 +19,10 @@ Virtual Pet On-Chain NFT is an innovative project that brings the concept of vir
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/virtual-pet-on-chain-nft.git
+git clone https://github.com/varenyeolad/nft-on-chain.git
 
 # Change into the project directory
-cd virtual-pet-on-chain-nft
+cd nft-on-chain
 
 # Install dependencies
 npm install
